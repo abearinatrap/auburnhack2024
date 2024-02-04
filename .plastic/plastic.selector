@@ -1,0 +1,4 @@
+repository "AuburnHacks2024@chanakya@cloud"
+  path "/"
+    br "/main"
+    co "/main"
