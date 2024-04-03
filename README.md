@@ -20,9 +20,8 @@ git clone https://github.com/your-username/auburnhack2024.git
 
 ## Credits:
 - **Team Members:**
-- [Developer 1 Name](https://github.com/developer1)
-- [Developer 2 Name](https://github.com/developer2)
-- [Developer 3 Name](https://github.com/developer3)
+- [Developer 1 Name](https://github.com/abearinatrap)
+- [Developer 2 Name](https://github.com/Vishak-V)
 - **Special Thanks:**
 - NASA API for providing real-time data.
 - Ollama and Large Language Models for NPC personality generation.
